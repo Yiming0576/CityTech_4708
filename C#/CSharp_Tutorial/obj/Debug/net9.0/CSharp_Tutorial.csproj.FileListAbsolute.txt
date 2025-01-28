@@ -1,0 +1,15 @@
+/Users/yiminggao/Documents/education/city-tech/bachelor_degree/spring_2025/Software Development and the .Net Framework/CityTech_4708/C#/CSharp_Tutorial/bin/Debug/net9.0/CSharp_Tutorial
+/Users/yiminggao/Documents/education/city-tech/bachelor_degree/spring_2025/Software Development and the .Net Framework/CityTech_4708/C#/CSharp_Tutorial/bin/Debug/net9.0/CSharp_Tutorial.deps.json
+/Users/yiminggao/Documents/education/city-tech/bachelor_degree/spring_2025/Software Development and the .Net Framework/CityTech_4708/C#/CSharp_Tutorial/bin/Debug/net9.0/CSharp_Tutorial.runtimeconfig.json
+/Users/yiminggao/Documents/education/city-tech/bachelor_degree/spring_2025/Software Development and the .Net Framework/CityTech_4708/C#/CSharp_Tutorial/bin/Debug/net9.0/CSharp_Tutorial.dll
+/Users/yiminggao/Documents/education/city-tech/bachelor_degree/spring_2025/Software Development and the .Net Framework/CityTech_4708/C#/CSharp_Tutorial/bin/Debug/net9.0/CSharp_Tutorial.pdb
+/Users/yiminggao/Documents/education/city-tech/bachelor_degree/spring_2025/Software Development and the .Net Framework/CityTech_4708/C#/CSharp_Tutorial/obj/Debug/net9.0/CSharp_Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yiminggao/Documents/education/city-tech/bachelor_degree/spring_2025/Software Development and the .Net Framework/CityTech_4708/C#/CSharp_Tutorial/obj/Debug/net9.0/CSharp_Tutorial.AssemblyInfoInputs.cache
+/Users/yiminggao/Documents/education/city-tech/bachelor_degree/spring_2025/Software Development and the .Net Framework/CityTech_4708/C#/CSharp_Tutorial/obj/Debug/net9.0/CSharp_Tutorial.AssemblyInfo.cs
+/Users/yiminggao/Documents/education/city-tech/bachelor_degree/spring_2025/Software Development and the .Net Framework/CityTech_4708/C#/CSharp_Tutorial/obj/Debug/net9.0/CSharp_Tutorial.csproj.CoreCompileInputs.cache
+/Users/yiminggao/Documents/education/city-tech/bachelor_degree/spring_2025/Software Development and the .Net Framework/CityTech_4708/C#/CSharp_Tutorial/obj/Debug/net9.0/CSharp_Tutorial.sourcelink.json
+/Users/yiminggao/Documents/education/city-tech/bachelor_degree/spring_2025/Software Development and the .Net Framework/CityTech_4708/C#/CSharp_Tutorial/obj/Debug/net9.0/CSharp_Tutorial.dll
+/Users/yiminggao/Documents/education/city-tech/bachelor_degree/spring_2025/Software Development and the .Net Framework/CityTech_4708/C#/CSharp_Tutorial/obj/Debug/net9.0/refint/CSharp_Tutorial.dll
+/Users/yiminggao/Documents/education/city-tech/bachelor_degree/spring_2025/Software Development and the .Net Framework/CityTech_4708/C#/CSharp_Tutorial/obj/Debug/net9.0/CSharp_Tutorial.pdb
+/Users/yiminggao/Documents/education/city-tech/bachelor_degree/spring_2025/Software Development and the .Net Framework/CityTech_4708/C#/CSharp_Tutorial/obj/Debug/net9.0/CSharp_Tutorial.genruntimeconfig.cache
+/Users/yiminggao/Documents/education/city-tech/bachelor_degree/spring_2025/Software Development and the .Net Framework/CityTech_4708/C#/CSharp_Tutorial/obj/Debug/net9.0/ref/CSharp_Tutorial.dll
